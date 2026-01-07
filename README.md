@@ -2,8 +2,10 @@
 
 A comprehensive C++ console-based gaming application featuring three classic games with a unified score management system. This project demonstrates Object-Oriented Programming (OOP) principles and implements the **Minimax Algorithm** for AI-powered gameplay.
 
-![C++](https://img.shields.io/badge/C++-17-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![C++](https://img.shields.io/badge/Language-C%2B%2B17-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-informational)
+![AI](https://img.shields.io/badge/AI-Minimax-purple)
+![Game](https://img.shields.io/badge/Category-Console%20Games-orange)
 
 ---
 
